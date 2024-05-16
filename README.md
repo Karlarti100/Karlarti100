@@ -1,7 +1,8 @@
 <div>
-  <img src="https://www.dafont.com/forum/attach/orig/7/8/785505.jpg"/>
+  <img src="https://www.dafont.com/forum/attach/orig/7/8/785505.jpg" width="100"/>
 </div>
-# Hi!👋 I'm Karl Artinger
+
+## Hi!👋 I'm Karl Artinger
 
 ✨ I'm currently a student at Karlstad University, studying **IT-Design** with a focus on **System Design**.
 
