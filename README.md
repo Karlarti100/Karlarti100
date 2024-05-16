@@ -1,4 +1,4 @@
-# Hello, I'm Karl and welcome to my GitHub page 👋
+# Welcome to my GitHub page 👋
 
 ✨ I'm currently a student at Karlstad University, studying **IT-Design** with a focus on **System Design**.
 
