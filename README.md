@@ -1,6 +1,6 @@
 # Welcome to my GitHub page 👋
 <div>
-  <img src="https://tenor.com/view/test-typing-codes-gif-15828752"/>
+  <img src="https://tenor.com/sv/view/test-typing-codes-gif-15828752"/>
 </div>
 ✨ I'm currently a student at Karlstad University, studying **IT-Design** with a focus on **System Design**.
 
