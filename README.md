@@ -1,4 +1,7 @@
-# Welcome to my GitHub page 👋
+<div>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.com%2Fwallpapers%2Fcoding-with-inspiration-o9lbk8va0wtmpn03.html&psig=AOvVaw3NYV7yIbwSBY9i8ekqBH_0&ust=1715978403895000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDH9vSDk4YDFQAAAAAdAAAAABAE"/>
+</div>
+# Hi!👋 I'm Karl Artinger
 
 ✨ I'm currently a student at Karlstad University, studying **IT-Design** with a focus on **System Design**.
 
