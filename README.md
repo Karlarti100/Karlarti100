@@ -1,5 +1,5 @@
 <div>
-  <img src="https://www.dafont.com/forum/attach/orig/7/8/785505.jpg" height="100" object-fit="cover"/>
+  <img src="https://www.dafont.com/forum/attach/orig/7/8/785505.jpg" height="500" object-fit="cover"/>
 </div>
 
 ## Hi!👋 I'm Karl Artinger
