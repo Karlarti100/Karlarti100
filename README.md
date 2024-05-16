@@ -8,6 +8,11 @@
 
 ## 💻 Technical Skills
 
+### 🛠️: Languages and Tools:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" Title="C" alt="C" width="40" height="40"/>&nbsp;
+</div>
 - Programming Languages: C, C++, Java, Python, SQL, JavaScript
 - Web: HTML, CSS
 <!-- Tools & Technologies: [Databases, OO-programming, Design-patterns, Interaction Design, Server programming, Data communication, Business by Web and Web Analytics, Software Testing] -->
