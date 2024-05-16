@@ -1,7 +1,8 @@
 # Welcome to my GitHub page 👋
 <div>
-  <img src="https://tenor.com/sv/view/test-typing-codes-gif-15828752"/>
+  <img src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6"/>
 </div>
+<iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>
 ✨ I'm currently a student at Karlstad University, studying **IT-Design** with a focus on **System Design**.
 
 ## 📚 Education
