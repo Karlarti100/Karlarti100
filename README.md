@@ -1,5 +1,7 @@
 # Welcome to my GitHub page 👋
-<div class="tenor-gif-embed" data-postid="15828752" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/test-typing-codes-gif-15828752">Test Typing GIF</a>from <a href="https://tenor.com/search/test-gifs">Test GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div>
+  <img src="https://tenor.com/view/test-typing-codes-gif-15828752"/>
+</div>
 ✨ I'm currently a student at Karlstad University, studying **IT-Design** with a focus on **System Design**.
 
 ## 📚 Education
