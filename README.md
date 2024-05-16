@@ -42,7 +42,7 @@
 ## 📫 How to reach me
 
 - Email: karlartinger@gmail.com
-- LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Karl-Artinger-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karl-artinger-a7117491/)
+- LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-KarlArtinger-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karl-artinger-a7117491/)
 
 ## 🔥 My Stats:
 <a justify-content="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Karlarti100&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
