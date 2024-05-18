@@ -16,14 +16,13 @@
 
 - 🎓 **IT-Design**, Karlstad University, Sweden (Expected graduation: 2025)
 
+##  Want to learn
 ## 🌱 Future plan of self-learning 
 
 - Wargame and CTF
 - TypeScript
 - Rust
 - React
-
-##  Want to learn
 
 ## 💻 Technical Skills
 ### 🛠️: Languages and Tools:
