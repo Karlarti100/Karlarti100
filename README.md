@@ -25,7 +25,7 @@
 - React
 
 ## 💻 Technical Skills
-### 🛠️: Languages and Tools:
+### 🛠️: Languages, Tools and Frameworks:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
