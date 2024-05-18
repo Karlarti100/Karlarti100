@@ -4,11 +4,26 @@
 
 ## Hi!👋 I'm Karl Artinger
 
-✨ I'm currently a student at Karlstad University, studying **IT-Design** with a focus on **System Design**.
+✨ I'm a 28 y/o student at Karlstad University, studying **IT-Design** with a focus on **System Design**.
+⚡ I love learning new things, exploring, developing new skills and knowledge
+🔎 Soon starting my last year with advanced education in:
+    - **Agile Project Management**
+    - **Computer Security**
+    - **Designpatterns, Java and UML**
+    - **Development of apps for mobile e-services**
 
 ## 📚 Education
 
 - 🎓 **IT-Design**, Karlstad University, Sweden (Expected graduation: 2025)
+
+## 🌱 Future plan of self-learning 
+
+- Wargame and CTF
+- TypeScript
+- Rust
+- React
+
+##  Want to learn
 
 ## 💻 Technical Skills
 ### 🛠️: Languages and Tools:
