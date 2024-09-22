@@ -6,7 +6,7 @@
 
 - ✨ I'm a 29 y/o student at Karlstad University, studying **IT-Design** with a focus on **System Design**.
 - ⚡ I love learning new things, exploring, developing new skills and knowledge
-- 🔎 Soon starting my last year with advanced education in:
+- 🔎 Just started my last year with advanced education in:
   - **Agile Project Management**
   - **Computer Security**
   - **Designpatterns, Java and UML**
