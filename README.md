@@ -10,7 +10,7 @@
   - **Agile Project Management**
   - **Computer Security**
   - **Designpatterns, Java and UML**
-  - **Development of apps for mobile e-services**
+  - **Development of apps for mobile e-services (Android)**
 
 ## 📚 Education
 
