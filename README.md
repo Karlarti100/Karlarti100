@@ -6,15 +6,11 @@
 
 - ✨ I'm a 29 y/o student at Karlstad University, studying **IT-Design** with a focus on **System Design**.
 - ⚡ I love learning new things, exploring, developing new skills and knowledge
-- 🔎 Just started my last year with advanced education in:
-  - **Agile Project Management**
-  - **Computer Security**
-  - **Designpatterns, Java and UML**
-  - **Development of apps for mobile e-services (Android)**
+- 🔎 Currently writing my Bachelor Thesis: _"Transforming Software Testing with AI-driven Test Automation"_
 
 ## 📚 Education
 
-- 🎓 **IT-Design**, Karlstad University, Sweden (Expected graduation: 2025)
+- 🎓 **IT-Design**, Karlstad University, Sweden (Expected graduation: June 2025)
 
 ##  Want to learn
 ### 🌱 Future plan of self-learning 
@@ -28,6 +24,7 @@
 ### 🛠️: Languages, Tools and Frameworks:
 
 <div>
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="Dot-Net" alt="Dot-Net" width="60" height="60"/>&nbsp;
