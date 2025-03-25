@@ -22,9 +22,8 @@
 
 ## 💻 Technical Skills
 ### 🛠️: Languages, Tools and Frameworks:
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <div>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="Dot-Net" alt="Dot-Net" width="60" height="60"/>&nbsp;
