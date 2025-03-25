@@ -23,8 +23,9 @@
 ## 💻 Technical Skills
 ### 🛠️: Languages, Tools and Frameworks:
 [![Languages](https://skillicons.dev/icons?i=c,cs,dotnet,java,py,css,html,js,jquery)](https://skillicons.dev)
-[![Tools](https://skillicons.dev/icons?i=mysql,mongodb,nodejs,express,pycharm,visualstudio,vscode,atom,eclipse,figma,git)](https://skillicons.dev)
-[![Frameworks](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=mysql,mongodb,nodejs,express,pycharm,visualstudio,vscode,atom,eclipse,figma,git,bash)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=bootstrap,postman)](https://skillicons.dev)
+[![OS](https://skillicons.dev/icons?i=kali,linux)](https://skillicons.dev)
 
 
 ## 📄 Side Projects
