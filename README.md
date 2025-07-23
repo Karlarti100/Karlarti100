@@ -4,20 +4,20 @@
 
 ## Hi!👋 I'm Karl Artinger
 
-- ✨ I'm a 29 y/o student at Karlstad University, studying **IT-Design** with a focus on **System Design**.
-- ⚡ I love learning new things, exploring, developing new skills and knowledge
-- 🔎 Currently writing my Bachelor Thesis: _"Transforming Software Testing with AI-driven Test Automation"_
+- ✨ I'm a 30 y/o IT-Design graduate from Karlstad University, specialized in **System Design**.
+- ⚡ I'm passionate about learning new things, exploring new ideas, developing new skills and knowledge
+- 🔎 I recently completed my Bachelor's Thesis: (_"Transforming Software Testing with AI-driven Test Automation"_)[https://urn.kb.se/resolve?urn=urn:nbn:se:kau:diva-105122]
 
 ## 📚 Education
 
-- 🎓 **IT-Design**, Karlstad University, Sweden (Expected graduation: June 2025)
+- 🎓 **IT-Design**, Karlstad University, Sweden, Graduation: June 2025
 
 ##  Want to learn
 ### 🌱 Future plan of self-learning 
 
 - Wargame and CTF
-- TypeScript
-- Rust
+- CCNA
+- Cybersecurity
 - React
 
 ## 💻 Technical Skills
