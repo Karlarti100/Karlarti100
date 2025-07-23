@@ -6,7 +6,7 @@
 
 - ✨ I'm a 30 y/o IT-Design graduate from Karlstad University, specialized in **System Design**.
 - ⚡ I'm passionate about learning new things, exploring new ideas, developing new skills and knowledge
-- 🔎 I recently completed my Bachelor's Thesis: (_"Transforming Software Testing with AI-driven Test Automation"_)[https://urn.kb.se/resolve?urn=urn:nbn:se:kau:diva-105122]
+- 🔎 I recently completed my Bachelor's Thesis: [https://urn.kb.se/resolve?urn=urn:nbn:se:kau:diva-105122](_Transforming Software Testing with AI-driven Test Automation_)
 
 ## 📚 Education
 
