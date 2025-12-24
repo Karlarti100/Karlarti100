@@ -15,10 +15,11 @@
 ##  Want to learn
 ### 🌱 Future plan of self-learning 
 
-- Wargame and CTF
+- Wargame and CTF (Completed)
 - CCNA
 - Cybersecurity
 - React
+- Flutter
 
 ## 💻 Technical Skills
 ### 🛠️: Languages, Tools and Frameworks:
