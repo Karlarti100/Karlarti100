@@ -16,10 +16,10 @@
 ### 🌱 Future plan of self-learning 
 
 - Wargame and CTF (Completed)
-- CCNA
+- CCNA (Almost done)
 - Cybersecurity
-- React
-- Flutter
+- React (Began learning)
+- Flutter (Tested)
 
 ## 💻 Technical Skills
 ### 🛠️: Languages, Tools and Frameworks:
