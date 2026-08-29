@@ -4,22 +4,21 @@
 
 ## Hi!👋 I'm Karl Artinger
 
-- ✨ I'm a 30 y/o IT-Design graduate from Karlstad University, specialized in **System Design**.
+- ✨ I'm a 31 y/o IT-Design graduate from Karlstad University, specialized in **System Design**.
 - ⚡ I'm passionate about learning new things, exploring new ideas, developing new skills and knowledge
 - 🔎 I recently completed my Bachelor's Thesis: [_Transforming Software Testing with AI-driven Test Automation_](https://urn.kb.se/resolve?urn=urn:nbn:se:kau:diva-105122)
 
 ## 📚 Education
 
 - 🎓 **IT-Design**, Karlstad University, Sweden, Graduation: June 2025
+- CCNA Certified (May 2026)
 
 ##  Want to learn
 ### 🌱 Future plan of self-learning 
 
 - Wargame and CTF (Completed)
-- CCNA (Almost done)
 - Cybersecurity
-- React (Began learning)
-- Flutter (Tested)
+- React (Learning)
 
 ## 💻 Technical Skills
 ### 🛠️: Languages, Tools and Frameworks:
